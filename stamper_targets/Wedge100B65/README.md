@@ -1,5 +1,7 @@
 # Intel/Barefoot Tofino stamper
 
+**OUTDATED** (as of 9.7.0)
+
 ## Required SDE
 For this version of P4STA please install the SDE in version 9.3.0 on your Tofino.
 Please include the grpc and thrift APIs while building the SDE.
@@ -22,4 +24,4 @@ and build them with the build script of the SDE:
 
 ## install P4STA driver for tofino
 Follow the installation process starting from step 3.1 in the main readme of this repository.
-** Imortant: ** after the first installation p4sta must be stopped and restarted in the CLI in order to load the compiled grpc files.
+**Important** after the first installation p4sta must be stopped and restarted in the CLI in order to load the compiled grpc files.
