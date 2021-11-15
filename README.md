@@ -47,7 +47,7 @@ After cloning this repository on any server/machine (management server) in your 
    2. insert the IP addresses and user names for these servers (note: this should be the IP address in the management network which is accessible via ssh).
    3. check your configurations by the check button. If everything is green -> Click on the "Create Setup Script" button.
    4. Click on "Execute install_server.sh script!" button in the newly opened window. The CLI will ask you multiple time for your password on the server which will be currently installed (once for each server to be installed).
-   5 after the script completes, you can close the window with "Finish" and start using P4STA.
+   5. after the script completes, you can close the window with "Finish" and start using P4STA.
 
 **Important:  For Intel Tofino** 
 
